@@ -11,7 +11,7 @@ import deved from "../public/dev-ed-wave.png";
 import Image from "next/image";
 
 export default function Home() {
-  const [darkMode, setDarkMode] = useState(false);
+  const [darkMode, setDarkMode] = useState(true);
 
   return (
     <div className={darkMode ? "dark" : ""}>
