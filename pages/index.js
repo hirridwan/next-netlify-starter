@@ -33,7 +33,7 @@ export default function Home() {
               </li>
             </ul>
           </nav>
-          <div className="mx-auto py-2 bg-gradient-to-b from-blue-500 rounded-full w-80 h-80 relative overflow-hidden md:h-96 md:w-96 object-center">
+          <div className="mx-auto py-2 bg-gradient-to-b from-blue-500 rounded-full w-80 h-80 relative overflow-hidden md:h-96 md:w-96">
             <Image src={deved} layout="fill" objectFit="cover" />
           </div>
           <div className="text-center p-2 py-2">
