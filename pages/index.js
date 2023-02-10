@@ -41,10 +41,10 @@ export default function Home() {
               </li> */}
             </ul>
           </nav>
+          <div className="mx-auto py-2 bg-gradient-to-b from-blue-500 rounded-full w-80 h-80 relative overflow-hidden md:h-96 md:w-96">
+            <Image src={deved} layout="fill" objectFit="cover" />
+          </div>
           <div className="text-center p-2 py-2">
-            <div className="mx-auto py-2 bg-gradient-to-b from-blue-500 rounded-full w-80 h-80 relative overflow-hidden md:h-96 md:w-96">
-              <Image src={deved} layout="fill" objectFit="cover" />
-            </div>
             <h2 className="text-5xl py-2 text-blue-600 font-medium dark:text-blue-400 md:text-6xl">
               Ridwan Maulana
             </h2>
