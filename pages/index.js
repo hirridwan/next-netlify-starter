@@ -17,7 +17,6 @@ export default function Home() {
     <div className={darkMode ? "dark" : ""}>
       <Head>
         <title>Hi! I'm Ridwan Maulana</title>
-        <meta name="description" content="Profil" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <main className=" bg-white px-10 dark:bg-gray-900 md:px-20 lg:px-40">
