@@ -44,7 +44,7 @@ export default function Home() {
               Junior Web Developer
             </h3>
             <p className="text-md py-5 leading-8 text-gray-800 dark:text-gray-200 max-w-xl mx-auto md:text-base">
-              Someone interested in web development. Im currently learning Laravel, React and React Native.
+              Someone interested in web development. I'm currently learning Laravel, React, React Native, and Flutter.
             </p>
             <div className="text-5xl flex justify-center gap-10 py-3 text-gray-600 dark:text-gray-400">
               <a href="https://www.facebook.com/rmfhdofficial"><AiFillFacebook /></a>
